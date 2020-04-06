@@ -1,7 +1,7 @@
+/*header file*/
 #include <stdio.h>
 #include<stdlib.h>
 #include<stdarg.h>
-
 typedef enum
 {
 	true,false
